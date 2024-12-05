@@ -1,2 +1,2 @@
-# Calculator-Maximus
+# Calculator-Maximus - OK
 Calculator for the git course.
